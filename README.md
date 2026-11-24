@@ -1,5 +1,7 @@
 # Spud Bowl
 
+**[▶ Play in browser](https://saturaspace.com/play/merge/)**
+
 Pour little spuds into a neon bowl, merge equal ones into bigger ones, and reach the Golden King before the bowl fills up.
 
 ![Gameplay](media/gameplay.gif)
